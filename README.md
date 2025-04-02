@@ -72,3 +72,5 @@ static const char *colors[][3]      = {
 };
 ```
 the `int snap` is area within your screen edge. so when you have a floating window and drag around and approaching the edge of your screen, it's gonna be sticking to the edge of you screen.
+
+================================================ NOT FINISHED YET =========================================================
